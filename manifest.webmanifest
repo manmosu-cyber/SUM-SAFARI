@@ -1,0 +1,17 @@
+{
+  "name": "SUM SAFARI",
+  "short_name": "SUM SAFARI",
+  "description": "A mobile-friendly number addition game.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "img/SUMSAFARI_ICON.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
